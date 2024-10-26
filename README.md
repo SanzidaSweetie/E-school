@@ -1,2 +1,2 @@
 # E-school
-html css bt5
+ https://sanzidasweetie.github.io/E-school/
