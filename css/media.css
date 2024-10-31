@@ -22,6 +22,22 @@
 .menu ul li a {
 	padding: 0 10px 10px !important;
 }
+/*banner start*/
+.b_text{
+	text-align: center;
+}
+.b_h1 {
+	margin: 10px 75px 20px;
+	font-size: 40pxpx;
+	line-height: 50px;
+}
+.b_img {
+	margin: 0 50px 30px;
+}
+.b_p2 {
+	margin: 0 90px;
+}
+
 
 }
 
@@ -31,11 +47,32 @@
 .menu ul li a {
 	padding: 0 10px 10px !important;
 }
+/*banner start*/
+.b_text{
+	text-align: center;
+}
+.b_h1 {
+	margin: 10px 90px 20px;
+}
+.b_img {
+	margin: 0 50px 30px;
+}
+.b_p2 {
+	margin: 0 90px;
+}
 
 }
 
 /* Large devices (desktops, 992px and up)*/
 @media (min-width: 992px) and (max-width: 1199.98px) {
+	.b_h1{
+ 	margin: 10px 40px 20px 0px !important;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 70px;
+   
+ }
+
 
 }
 
@@ -47,6 +84,9 @@
 
 /* Extra Extra large devices (large desktops, 1400px and up)*/
 @media (min-width: 1400px) {
+	.b_h1{
+		margin: 10px 110px 20px 0;
+	}
 
 }
 
